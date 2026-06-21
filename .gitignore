@@ -214,5 +214,14 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
+
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Project specific
+uploads/
+frontend/node_modules/
+frontend/dist/
+backend/uploads/
+backend/.env
